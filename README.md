@@ -11,3 +11,5 @@ a theory based on general observation follow by canonical fathom drawing when to
 
 Current literacy review includes:
 
+https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/ry
+
